@@ -1,7 +1,7 @@
-Welcome to my github page.
+Welcome to my github.
 
-My github is mainly used to store projects that I have worked on in the past/actively working on.
+This is where I store projects I've worked on in the past and those I'm actively developing.
 
-My interests are AI/ML, Algorithmic Trading and Distributed Systems. 
+My interests include AI/ML, Algorithmic Trading and Distributed Systems. 
 
-Enjoy your stay!
+Feel free to explore - enjoy your stay!
